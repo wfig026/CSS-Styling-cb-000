@@ -24,3 +24,14 @@ figcaption {
 #logo h2 {
   font-family: 'Elsie Swash Caps', cursive;
 }
+#details a:link, #details a:visited {
+  color: #000;
+  text-decoration: none;
+}
+#details a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+#details a:active {
+  color: red;
+}
